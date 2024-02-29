@@ -1,5 +1,5 @@
-# Chinese-Chess、
-##中文（简体）
+# Chinese-Chess
+## 中文（简体）
 我的中国象棋
 ### 功能
 - 人机
@@ -12,3 +12,9 @@ My Chinese Chess
 - Man-machine
 - Double
 - Replay
+## 中文（繁體）
+我的中國象棋
+### 功能
+- 人機
+- 雙人
+- 復盤
