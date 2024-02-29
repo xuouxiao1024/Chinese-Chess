@@ -12,6 +12,7 @@ My Chinese Chess
 - Man-machine
 - Double
 - Replay
+***
 ## 中文（繁體）
 我的中國象棋
 ### 功能
